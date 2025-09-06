@@ -1,3 +1,5 @@
+[English](README.md) [中文](README.zh.md) 
+
 # 电报机器人开发
 电报机器人开发/二次开发有需求联系
 Tron波场节点安装配置
